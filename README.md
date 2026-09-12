@@ -1,0 +1,2 @@
+# FrontBuddy
+AI Receptionist
